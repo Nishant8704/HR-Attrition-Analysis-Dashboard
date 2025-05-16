@@ -1,4 +1,5 @@
-![image](https://github.com/user-attachments/assets/870f9c33-034e-49f8-b9bb-0797646ebe41)# HR Attrition Analysis Dashboard (Power BI)
+# HR Attrition Analysis Dashboard (Power BI)
+![image](https://github.com/user-attachments/assets/870f9c33-034e-49f8-b9bb-0797646ebe41) 
 
 This project is a data visualization dashboard created in Power BI using an HR dataset. It aims to explore the key factors behind employee attrition in an organization.
 
